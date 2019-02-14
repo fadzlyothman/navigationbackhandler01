@@ -1,0 +1,14 @@
+This is a React Native tutorial project to assist people with the following issues:
+
+- Multi Screen Navigation
+- Android BackButton Handler
+- Hiding of Navigation Bar
+
+This project is catered to run on Android Devices but it should be able to run in Apple devices, though that is never tested.
+
+Should you encountered an error similar to:
+
+'java.io.IOException: Unable to delete directory <your_project_directory>\android\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\android\arch\lifecycle\livedata.
+> Unable to delete directory <your_project_directory>\android\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\android\arch\lifecycle\livedata.'
+
+YOu can try deleting the <your_project_directory>\android\app\build directory and run it again.
