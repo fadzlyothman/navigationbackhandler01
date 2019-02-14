@@ -11,4 +11,12 @@ Should you encountered an error similar to:
 'java.io.IOException: Unable to delete directory <your_project_directory>\android\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\android\arch\lifecycle\livedata.
 > Unable to delete directory <your_project_directory>\android\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\android\arch\lifecycle\livedata.'
 
-YOu can try deleting the <your_project_directory>\android\app\build directory and run it again.
+You can try deleting the <your_project_directory>\android\app\build directory and run it again.
+
+I referenced the following links in doing this project:
+
+https://reactnavigation.org/docs/en/navigating.html
+https://reactnavigation.org/docs/en/navigation-prop.html
+https://reactnavigation.org/docs/en/navigation-lifecycle.html
+https://reactnavigation.org/docs/en/custom-android-back-button-handling.html
+https://facebook.github.io/react-native/docs/backhandler
